@@ -7,17 +7,17 @@ Through analysis of data we find things that influence rates.  Cleaning of data 
 See what factors were taking into account inorder to predict Wish top merchants.
 
 ## Index
--  [Import Programs and Data](http://localhost:8888/notebooks/Desktop/final_project/Wish%20Final%20NB.ipynb#import)
+-  [Import Programs and Data](http://localhost:8888/notebooks/Wish%20Final%20NB.ipynb#import)
 
--  [Cleaning Data](http://localhost:8888/notebooks/Desktop/final_project/Wish%20Final%20NB.ipynb#cleaning_data)
+-  [Cleaning Data](http://localhost:8888/notebooks/Wish%20Final%20NB.ipynb#cleaning_data)
 
--  [Visualization](http://localhost:8888/notebooks/Desktop/final_project/Wish%20Final%20NB.ipynb#visual)
+-  [Visualization](http://localhost:8888/notebooks/Wish%20Final%20NB.ipynb#visual)
 
--  [Tags](http://localhost:8888/notebooks/Desktop/final_project/Wish%20Final%20NB.ipynb#tags)
+-  [Tags](http://localhost:8888/notebooks/Wish%20Final%20NB.ipynb#tags)
 
--  [Visuals in Tableau](http://localhost:8888/notebooks/Desktop/final_project/Wish%20Final%20NB.ipynb#tab)
+-  [Visuals in Tableau](http://localhost:8888/notebooks/Wish%20Final%20NB.ipynb#tab)
 
--  [Liner Regression](http://localhost:8888/notebooks/Desktop/final_project/Wish%20Final%20NB.ipynb#linear_regression)
+-  [Liner Regression](http://localhost:8888/notebooks/Wish%20Final%20NB.ipynb#linear_regression)
 
--  [Corolated Heat Map](http://localhost:8888/notebooks/Desktop/final_project/Wish%20Final%20NB.ipynb#corrolated_heat_map)
+-  [Corolated Heat Map](http://localhost:8888/notebooks/Wish%20Final%20NB.ipynb#corrolated_heat_map)
 
