@@ -21,4 +21,4 @@ See what factors were taking into account inorder to predict Wish top merchants.
 
 -  [Corolated Heat Map](http://localhost:8888/notebooks/Wish%20Final%20NB.ipynb#corrolated_heat_map)
 
- [Presentation](hhttps://zoom.us/rec/share/RRMlAXhZPtUHfG2IxO6lsfoNGCXGZnWVW3HKVYEKMV_7g3xJflgyz5sqMzZK4zI.2prUoYuCFwfTv0OC?startTime=1601488858000)
+ [Presentation](https://zoom.us/rec/share/RRMlAXhZPtUHfG2IxO6lsfoNGCXGZnWVW3HKVYEKMV_7g3xJflgyz5sqMzZK4zI.2prUoYuCFwfTv0OC?startTime=1601488858000)
